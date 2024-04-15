@@ -66,9 +66,11 @@ Soy una persona muy diligente y comprometida, con una gran pasión por el trabaj
 * **Programador Jr. (Backend)**
   + Manejo del computador.
   + Uso directo de servidores internos y de produccion.
-  + Despliegues continuos.
+  + Despliegues continuos a produccion y rama productiva.
   + Pruebas y soportes a sistemas.
-  + Respaldos y restauraciones de Bases de Datos.
+  + Respaldos y restauraciones de Bases de Datos en automatico.
+  + Uso de servicios de terceros.
+  + Uso de GeoServer, OpenLayers y Bases de Datos en la nube.
   + ItsMarts, Febrero 2024 - Hasta la fecha.
 * **Asesor Telefónico**
   + Manejo del computador.
