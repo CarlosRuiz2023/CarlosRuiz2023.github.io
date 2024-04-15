@@ -1,6 +1,7 @@
 # Bienvenido a mi Página Personal en GitHub
 
 ---
+<img src="https://res.cloudinary.com/dgyc4mn7w/image/upload/v1713223716/IMG_20190413_190103818_uphbuq.jpg" alt="Descripción de la imagen" style="float: left; margin-right: 10px; width:150px; height:200px;">
 
 ¡Hola! Soy Ingeniero en Deasarrollo de Software, mi nombre es _Juan Carlos Ruiz Gomez_, y esta es mi página personal en GitHub. Aquí puedes encontrar información sobre mí y mis proyectos.
 
